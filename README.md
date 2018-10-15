@@ -1,6 +1,6 @@
 # PDE_Control_Annular
-# To setup the optimal control problem, run the initialization script "Setup_main.m"
-# In "Setup_main.m" you can alter: 
+    # To setup the optimal control problem, run the initialization script "Setup_main.m"
+    # In "Setup_main.m" you can alter: 
     # Nvec- Number of Legendre modes
     # NN - Number of Fourier modes
     # M=NN/2 Number of trig modes
@@ -13,4 +13,4 @@
     # tolSSN - Tolerance SSN solver
     # tolKSP - Tolerance KSP solver
  
- # To run the code, execute the script "main.m". The script will automatically solve the PDE-constrained optimal control problem specified by "Setup_main.m". The script prints the convergence history of the Krylov Subspace solver and plots the optimal state and control.
+    # To run the code, execute the script "main.m". The script will automatically solve the PDE-constrained optimal control problem specified by "Setup_main.m". The script prints the convergence history of the Krylov Subspace solver and plots the optimal state and control.
