@@ -8,7 +8,7 @@
     # a b - Inner and outer Radii of the Annulus
     # ua,ub - Lower and upper point-wise bound constraints
     # zd=@(r,theta) - The Desired state
-    # f=@(r,theta) - Optimal Source term
+    # f=@(r,theta) - Optional Source term
     # IterMax - Max Number of SSN iterations
     # tolSSN - Tolerance SSN solver
     # tolKSP - Tolerance KSP solver
