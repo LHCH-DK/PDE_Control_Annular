@@ -14,5 +14,6 @@
     # tolKSP - Tolerance KSP solver
  
     # To run the code, execute the script "main.m". 
-    The script will automatically solve the PDE-constrained optimal control problem specified by "Setup_main.m". 
-    The script prints the convergence history of the Krylov Subspace solver and plots the optimal state and control.
+    # The script will solve the PDE-constrained optimal control problem specified by "Setup_main.m". 
+    # The script prints the convergence history of the Krylov Subspace solver 
+      and plots the optimal state and control.
